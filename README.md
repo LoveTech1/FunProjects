@@ -1,3 +1,3 @@
 # FunProjects
 Used for the purpose of practicing
-<h1> Fun Projects </h1>
+<h1> 1. Beats </h1>
